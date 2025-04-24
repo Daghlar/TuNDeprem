@@ -1,0 +1,13 @@
+{
+  "earthquakes": {
+    "title": "Recent Earthquakes",
+    "loading": "Loading earthquake data...",
+    "lastUpdate": "Last update",
+    "refresh": "Refresh",
+    "error": "API response failed",
+    "retry": "Try Again",
+    "depth": "Depth",
+    "coordinates": "Coordinates",
+    "km": "km"
+  }
+} 

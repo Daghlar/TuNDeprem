@@ -1,0 +1,18 @@
+{
+  "navigation": {
+    "home": "Ana Sayfa",
+    "map": "Harita",
+    "statistics": "İstatistikler"
+  },
+  "footer": {
+    "rights": "© 2024 TunDeprem. Tüm hakları saklıdır.",
+    "privacy": "Gizlilik Politikası",
+    "terms": "Kullanım Şartları",
+    "contact": "İletişim"
+  },
+  "verse": {
+    "arabic": "حَتّٰٓى اَتٰينَا الْيَق۪ينُۜ",
+    "translation": "Böyle gaflet içinde yaşayıp giderken kaçınılması mümkün olmayan ölüm gerçeği geldi çattı.",
+    "source": "Müddessir / 47. Ayet"
+  }
+} 

@@ -1,0 +1,18 @@
+{
+  "navigation": {
+    "home": "Home",
+    "map": "Map",
+    "statistics": "Statistics"
+  },
+  "footer": {
+    "rights": "© 2024 TunDeprem. All rights reserved.",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Use",
+    "contact": "Contact"
+  },
+  "verse": {
+    "arabic": "حَتّٰٓى اَتٰينَا الْيَق۪ينُۜ",
+    "translation": "Until the certainty (death) came to us.",
+    "source": "Surah Al-Muddaththir / Verse 47"
+  }
+} 

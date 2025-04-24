@@ -1,0 +1,13 @@
+{
+  "earthquakes": {
+    "title": "Son Depremler",
+    "loading": "Deprem verileri yükleniyor...",
+    "lastUpdate": "Son güncelleme",
+    "refresh": "Yenile",
+    "error": "API yanıtı başarısız oldu",
+    "retry": "Tekrar Dene",
+    "depth": "Derinlik",
+    "coordinates": "Koordinatlar",
+    "km": "km"
+  }
+} 
